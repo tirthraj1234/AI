@@ -13,13 +13,6 @@ This repository contains my 30-day AI and Software Engineering learning journey.
 - Maintain clean documentation
 - Push daily progress to GitHub
 
-## Repository Structure
-
-- Day-01: Linear Regression
-- Day-02: Logistic Regression
-- Day-03: Ridge & Lasso
-- ...
-- Day-30: Final AI Project
 
 ## Technologies
 
@@ -33,3 +26,4 @@ This repository contains my 30-day AI and Software Engineering learning journey.
 - FastAPI
 - Django
 - PostgreSQL
+
