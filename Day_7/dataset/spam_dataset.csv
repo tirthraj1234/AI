@@ -1,0 +1,16 @@
+Message,Label
+"Congratulations! You won a free lottery ticket.",Spam
+"Claim your prize now.",Spam
+"Limited-time offer! Buy now.",Spam
+"Win a brand new smartphone today.",Spam
+"Meeting is scheduled for tomorrow.",Ham
+"Please submit your assignment.",Ham
+"Let's have lunch together.",Ham
+"Project discussion at 3 PM.",Ham
+"Free vacation package available.",Spam
+"Your bank account has been updated.",Ham
+"Click here to receive your reward.",Spam
+"Your order has been shipped.",Ham
+"Special discount available only today.",Spam
+"Team meeting starts at 10 AM.",Ham
+"Thank you for your payment.",Ham
