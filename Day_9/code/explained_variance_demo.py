@@ -2,7 +2,7 @@ from sklearn.datasets import load_iris
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
-# Load dataset
+# Load dataset 
 iris = load_iris()
 X = iris.data
 
