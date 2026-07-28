@@ -127,14 +127,3 @@ comparison = pd.DataFrame({
 
 print(comparison)
 
-# Step 7 : Summary
-
-print("\n" + "=" * 70)
-print("SUMMARY")
-print("=" * 70)
-
-# Program Completed
-
-print("=" * 70)
-print("WRAPPER METHODS IMPLEMENTATION COMPLETED")
-print("=" * 70)
